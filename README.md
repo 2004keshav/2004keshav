@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Keshav 👋
+### Aspiring Machine Learning & MLOps Engineer
 
-<!--
-**2004keshav/2004keshav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile! I focus on building end-to-end Machine Learning pipelines, model deployment, and MLOps workflows.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Focus Areas
+
+- **Languages:** Python, SQL
+- **ML Frameworks:** Scikit-Learn, LightGBM, XGBoost, PyTorch
+- **MLOps & Tools:** FastAPI, Docker, Git, GitHub Actions, Linux
+- **Data Analytics:** Pandas, NumPy, Data Preprocessing, EDA
+
+---
+
+### 🎯 Current Focus
+- Building end-to-end production ML systems.
+- Practicing clean code standards and containerized model deployment.
+
+---
+
+### 📬 Connect With Me
+
+- **LinkedIn:** [Your LinkedIn Profile URL](#)
+- **Email:** your.email@example.com
